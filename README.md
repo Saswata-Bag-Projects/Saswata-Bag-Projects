@@ -1,6 +1,3 @@
-Creating a **5,000-word** README is quite detailed, but I’ll provide a **long-form version** of your GitHub profile README with all your **projects, skills, achievements, and future goals** in a structured and engaging way.  
-
----
 
 # **👋 Welcome to Saswata's Lab - A Hub of Innovation!**  
 
